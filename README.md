@@ -3,5 +3,5 @@
 3DANA
 
 This package is built for commonly used functions, especially 3D data processing and visulization
-![Screenshot](picture1.jpg)
-![Screenshot](picture2.jpg)
+![alt text](https://github.com/vickyting0910/3DAPP/picture1.png)
+![alt text](https://github.com/vickyting0910/3DAPP/picture2.png)
